@@ -1,5 +1,4 @@
 const myInformation = require('./information.js');
-myInformation();
 
 let cowsay = require("cowsay");
 
